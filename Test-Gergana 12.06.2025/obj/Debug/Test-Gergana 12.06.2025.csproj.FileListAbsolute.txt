@@ -1,0 +1,7 @@
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\bin\Debug\Test-Gergana 12.06.2025.exe.config
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\bin\Debug\Test-Gergana 12.06.2025.exe
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\bin\Debug\Test-Gergana 12.06.2025.pdb
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\obj\Debug\Test-Gergana 12.06.2025.csproj.AssemblyReference.cache
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\obj\Debug\Test-Gergana 12.06.2025.csproj.CoreCompileInputs.cache
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\obj\Debug\Test-Gergana 12.06.2025.exe
+C:\Users\PC-04\source\repos\Test-Gergana 12.06.2025\obj\Debug\Test-Gergana 12.06.2025.pdb
